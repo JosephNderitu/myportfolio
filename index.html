@@ -144,6 +144,37 @@
         </div>
     </div>
 
+    <!----------uploading files----------->
+     <section class="certificate-section">
+        <h1>Developer Certificates</h1>
+        <table class="certificate-table">
+            <thead>
+                <tr>
+                    <th>Description</th>
+                    <th>View</th>
+                </tr>
+            </thead>
+            <tbody id="certificateList"></tbody>
+        </table>
+        
+        <button onclick="toggleAdminPanel()" id="uploadButton">Upload File</button>
+        
+        <div class="admin-panel" id="adminPanel" style="display: none;">
+            <h2>Admin Panel</h2>
+            <label for="password">Password:</label>
+            <input type="password" id="password" placeholder="Enter password">
+            <br>
+            <label for="certificateDescription">Certificate Description:</label>
+            <input type="text" id="certificateDescription" placeholder="Enter description">
+            <br>
+            <label for="certificateFile">Certificate File:</label>
+            <input type="file" id="certificateFile">
+            <br>
+            <button onclick="addCertificate()">Add Certificate</button>
+            <button onclick="deleteCertificate()">Delete Certificate</button>
+        </div>
+    </section>
+    
     <!----------contact----------->
     <div id="contact">
         <div class="container">
