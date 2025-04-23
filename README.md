@@ -1,4 +1,4 @@
-# 💼 Joseph Nderitu – Developer Portfolio
+# Static – Developer Portfolio Website
 
 Welcome to my personal developer portfolio website built with HTML, CSS, and JavaScript. This site showcases my skills, projects, and professional background in a visually appealing and responsive design.
 
