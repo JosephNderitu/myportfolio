@@ -44,16 +44,16 @@ Open index.html in your browser or run a local development server.
 
 To deploy:
 
-Simply push your changes to the main branch and GitHub Pages will auto-update the live site.
+Simply push your changes to the main branch, and GitHub Pages will auto-update the live site.
 
 📬 Contact
 If you'd like to get in touch:
 
-Email: your-email@example.com
+Email: gikurujoseph53@gmail.com
 
-LinkedIn: Your LinkedIn
+**LinkedIn:** [https://www.linkedin.com/in/joseph-gikuru-48574926b/](https://www.linkedin.com/in/joseph-gikuru-48574926b/)
 
-Portfolio: josephnderitu.github.io/myportfolio
+Portfolio: https://nderitu.pythonanywhere.com/
 
 📄 License
 This project is open source and available under the MIT License.
